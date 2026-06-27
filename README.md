@@ -1,16 +1,47 @@
-## Hi there 👋
+ Hi there 👋 I'm Yvette Kazeneza
 
-<!--
-**YVETTEKAZ/YVETTEKAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  💻 Full-Stack Developer | UI/UX designer | 📍 Kigali, Rwanda
 
-Here are some ideas to get you started:
+I'm passionate about building software that solves real problems — from data-driven planning tools to clean, user-friendly web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 🛠 Tech Stack
+
+ 🌐 Frontend: HTML, CSS, JavaScript, React
+ ⚙️ Backend: PHP, Laravel, Node.js, Express
+ 🗄️ Databases: MySQL, PostgreSQL
+ 🤖 Other: Python, Git, GitHub, Figma, Microsoft Excel
+
+
+
+ 💡 Projects
+
+ 📊 Soma AI –  an AI-powered learning platform for African students.
+ 🚨 Gas Leakage Detection Platform – Web platform for gas leak monitoring and alert management.
+ 🐟 Fish Farming Management Platform – Smart platform integrating IoT concepts to support fish farmers.
+ 
+
+
+ 🌱 Currently Learning
+
+ ☁️ Cloud Computing
+ 🐳 Docker
+ 🚀 Advanced Backend Development
+
+
+
+ 📜 Certifications
+
+ 🎓 Software Development (DTP)
+ 🌐 Web Development (Afretec)
+ 🎨 UI/UX Design
+ 📈 Data Analysis & Visualization
+ 💻 IT Essentials
+
+
+
+ 📫 Let's Connect!
+
+Email: kazenezay@gmail.com
+LinkedIn:https://www.linkedin.com/in/yvette-kazeneza-4ba77b307/
+
