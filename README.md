@@ -18,6 +18,7 @@ I'm passionate about building software that solves real-world problems—from da
 ## 💡 Projects
 
 * 📊 **Soma AI** – An AI-powered learning platform for African students.
+* 🧶 **IremeCorner** (Collaborative Project) Contributed to the development of an e-commerce platform for handmade products.
 * 🚨 **Gas Leakage Detection Platform** – Web platform for gas leak monitoring and alert management.
 * 🐟 **Fish Farming Management Platform** – Smart platform integrating IoT concepts to support fish farmers.
 
